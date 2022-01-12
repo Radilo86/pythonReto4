@@ -12,10 +12,10 @@
 import requests
 import json
 
-# Example Url: https://api.openweathermap.org/data/2.5/weather?q=yecla&appid=5318aa4952f008887a523972a6efdd57
+# Example Url: https://api.openweathermap.org/data/2.5/weather?q=yecla&appid=5318aa4952f008887a523972a6efdd5798
 
 url = "https://api.openweathermap.org/data/2.5/weather?q="
-apiKey = "&lang=es&appid=fa6105160ed9c8da7afa4e80bfb0cd84"
+apiKey = "&lang=es&appid=fa6105160ed9c8da7afa4e80bfb0cd84**86"
 sistemaDecimal = "&units=metric"
 ciudad = input("Introduce la ciudad: ")
 
