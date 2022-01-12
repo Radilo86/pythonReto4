@@ -1,0 +1,47 @@
+{
+	{
+   "coord":{
+      "lon":-1.1147,
+      "lat":38.6137
+   },
+   "weather":[
+      {
+         "id":803,
+         "main":"Clouds",
+         "description":"broken clouds",
+         "icon":"04n"
+      }
+   ],
+   "base":"stations",
+   "main":{
+      "temp":281.69,
+      "feels_like":280.14,
+      "temp_min":280.37,
+      "temp_max":282.93,
+      "pressure":1030,
+      "humidity":84,
+      "sea_level":1030,
+      "grnd_level":954
+   },
+   "visibility":10000,
+   "wind":{
+      "speed":2.65,
+      "deg":76,
+      "gust":3.5
+   },
+   "clouds":{
+      "all":51
+   },
+   "dt":1642011677,
+   "sys":{
+      "type":2,
+      "id":2011967,
+      "country":"ES",
+      "sunrise":1641972097,
+      "sunset":1642007001
+   },
+   "timezone":3600,
+   "id":2509402,
+   "name":"Yecla",
+   "cod":200
+}
